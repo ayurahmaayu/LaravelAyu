@@ -60,5 +60,4 @@ class KategoriController extends Controller
           return back()->with('result','fail');
         }
     }
-
 }
